@@ -1,0 +1,14 @@
+Subject: Introduction to Artificial Intelligence
+Total Marks: 30 | Time: 1 Hour
+
+Q1. (5 marks) What is Artificial Intelligence? Explain its major goals.
+
+Q2. (3 marks) Differentiate between supervised and unsupervised learning.
+
+Q3. (7 marks) Explain the gradient descent algorithm with a suitable example. How does the learning rate affect convergence?
+
+Q4. (5 marks) What is a neural network? Describe its basic components.
+
+Q5. (4 marks) What is overfitting in machine learning? How can it be prevented?
+
+Q6. (6 marks) Explain the working of a decision tree algorithm. What are its advantages and disadvantages?
