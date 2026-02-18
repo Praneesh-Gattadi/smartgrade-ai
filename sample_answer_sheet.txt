@@ -1,0 +1,14 @@
+Student Name: Rahul Sharma
+Roll No: CS2023045
+
+Q1. Artificial Intelligence is the simulation of human intelligence in machines. Its goals include problem solving, learning, planning, and natural language understanding. AI aims to create systems that can perform tasks that normally require human intelligence like recognizing speech, translating languages, and making decisions.
+
+Q2. In supervised learning, the model is trained on labeled data where inputs and outputs are given. For example, spam detection. Unsupervised learning uses unlabeled data and finds hidden patterns. Clustering is an example.
+
+Q3. Gradient descent is an algorithm used to minimize a function by moving in the direction of steepest descent. We start from a random point and update weights by subtracting the gradient multiplied by learning rate. If learning rate is too high, it may overshoot. If too low, convergence is slow.
+
+Q4. A neural network is inspired by the human brain. It has input layer, hidden layers, and output layer. Neurons are connected with weights and activation functions are used to introduce non-linearity.
+
+Q5. Overfitting happens when a model performs well on training data but poorly on new data. It can be prevented using regularization techniques.
+
+Q6. I don't know this answer.
